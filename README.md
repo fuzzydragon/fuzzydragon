@@ -8,5 +8,4 @@
 ### Contacts
 
 * [ROBLOX: SevenRingsOfSaturn](https://www.roblox.com/users/39939779/profile)
-* [Twitter: zioxfy78qgh](https://twitter.com/zioxfy78qgh)
 * Discord: AndrewJ#5335 (759661841491296266)
