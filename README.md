@@ -1,4 +1,4 @@
-# 🪐 Info
+# 🐉 Info
 
 * Call me Andrew
 * I use Ruby, Lua, Javascript, Golang, and sometimes Dlang.
