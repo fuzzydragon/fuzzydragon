@@ -3,7 +3,6 @@
 * Call me Andrew
 * I use Ruby, Lua, Javascript, Golang, and sometimes Dlang.
 * He/she/they
-* I like the band "[Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn_(band))"
 
 ### Contacts
 
